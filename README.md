@@ -12,7 +12,10 @@ Este es un proyecto que implementa el Juego de la Vida de Conway utilizando la b
 ## Cómo Ejecutar el Proyecto
 
 1. Clona el repositorio en tu máquina local.
+   2 . Los fuentes se encuentran en la rama gh-pages.
 2. Abre el archivo `index.html` en tu navegador web preferido.
+
+Review it online <a href="https://cgarciagl.github.io/juegodelavida/" target="_blank">here</a>
 
 ## Recursos
 
@@ -21,4 +24,4 @@ Este es un proyecto que implementa el Juego de la Vida de Conway utilizando la b
 
 ## Autor
 
-- **Tu Nombre**
+- Garlos GT
